@@ -1,0 +1,16 @@
+{
+  "name": "Internal_Storage_OTA",
+  "version": "0.0.1",
+  "keywords": "arduino",
+  "description": "This library contains modified version of InternalStorageClass and OTAStorage classes from http://www.arduino.cc/en/Reference/WiFi101OTA.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobizt/Internal_Storage_OTA.git"
+  },
+  "authors": [{
+    "name": "Mobizt",
+    "email": "k_suwatchai@hotmail.com"
+  }],
+  "frameworks": "arduino",
+  "platforms": "atmelsam"
+}
